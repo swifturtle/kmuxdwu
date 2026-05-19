@@ -4,13 +4,12 @@ export const Container = styled.div`
   position: relative;
   margin: 0 auto;
   margin-top: 0px;
-  padding: 30px 0; /* 불필요한 패딩 제거 */
-  box-sizing: border-box; /* 패딩이 width에 포함되도록 설정 */
+  padding: 0;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   width: 393px;
   height: 100vh;
-  //   justify-content: center;
   align-items: center;
   overflow-x: hidden;
   background: linear-gradient(
@@ -25,8 +24,8 @@ export const Container = styled.div`
 `;
 
 export const Background = styled.div`
-  // margin-top: 30px;
-  // margin-bottom: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   width: 343px;
   height: 800px;
   flex-shrink: 0;
@@ -52,7 +51,7 @@ export const Logo = styled.div`
 
 export const Name = styled.div`
   margin-top: 8px;
-  font-family: Pretendard;
+  font-family: "Pretendard Variable";
   font-size: 25px;
   font-style: normal;
   font-weight: 800;
@@ -73,7 +72,7 @@ export const Name = styled.div`
 
 export const Team = styled.div`
   margin-top: 10px;
-  font-family: Pretendard;
+  font-family: "Pretendard Variable";
   font-size: 30px;
   font-style: normal;
   font-weight: 800;

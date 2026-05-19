@@ -166,7 +166,7 @@ export const Name = styled.div`
     font-family: "Pretendard Variable";
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     line-height: normal;
     letter-spacing: 1.5px;
     padding-left: 14px;
@@ -179,7 +179,7 @@ export const Name = styled.div`
     font-family: "Pretendard Variable";
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     line-height: normal;
     letter-spacing: 1.5px;
   }
@@ -213,7 +213,7 @@ export const Number = styled.div`
     font-family: "Pretendard Variable";
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     line-height: normal;
     letter-spacing: 1.5px;
     padding-left: 14px;
@@ -226,7 +226,7 @@ export const Number = styled.div`
     font-family: "Pretendard Variable";
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     line-height: normal;
     letter-spacing: 1.5px;
   }
@@ -260,7 +260,7 @@ export const Phone = styled.div`
     font-family: "Pretendard Variable";
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     line-height: normal;
     letter-spacing: 1.5px;
     padding-left: 14px;
@@ -273,7 +273,7 @@ export const Phone = styled.div`
     font-family: "Pretendard Variable";
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     line-height: normal;
     letter-spacing: 1.5px;
   }
